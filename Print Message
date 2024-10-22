@@ -12,6 +12,8 @@ Sample Input 1/Output1:
 
 Thank you for your order */
 
+*****
+
 
 public class UserInterface {
     public static void main(String[] args) 
