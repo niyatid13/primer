@@ -1,4 +1,4 @@
-Description
+![image](https://github.com/user-attachments/assets/d9435c83-79d3-4b96-b1c8-c540bf9cca1a)Description
 
 
 
@@ -21,7 +21,9 @@ As per this requirement, the system should be able to calculate the ticket cost 
 
 Component Specification: Ticket
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/6fc8ea9c-f439-4910-b6e5-73a86097bd73)
+
 
 
 Example
